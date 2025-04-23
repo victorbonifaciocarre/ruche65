@@ -1,3 +1,1 @@
-# Kata sur les lambdas
-
-Il faut implémenter les fonctions de PaymentOperation pour que les tests unitaires puissent fonctionner.
+# Ruche sur les lambdas, Generics et Gatherers
